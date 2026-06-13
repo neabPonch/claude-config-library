@@ -1,0 +1,27 @@
+{
+  "_comment": "Machine-readable index of all configs. The advisor reads this to find relevant templates. Update whenever you add a file.",
+  "version": "0.1.0",
+  "claude-md": {
+    "_base": [
+      {
+        "file": "claude-md/_base/base.md",
+        "name": "base",
+        "description": "Minimal base CLAUDE.md — all domain/stack templates layer on top of this",
+        "tags": ["base"],
+        "domains": [],
+        "stacks": []
+      }
+    ],
+    "domains": {},
+    "stacks": {}
+  },
+  "skills": {
+    "domains": {},
+    "stacks": {}
+  },
+  "workflows": {
+    "practices": [],
+    "patterns": [],
+    "integrations": []
+  }
+}
