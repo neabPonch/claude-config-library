@@ -1,5 +1,16 @@
 {
   "entries": {
+    "ApiwatKansaard/Claude_QA_Agent:CLAUDE.md": {
+      "curated": "2026-06-14",
+      "kind": "claude-md",
+      "note": "discovered/claude-md/ApiwatKansaard__Claude_QA_Agent.md",
+      "path": "CLAUDE.md",
+      "repo": "ApiwatKansaard/Claude_QA_Agent",
+      "score": 9,
+      "source_url": "https://github.com/ApiwatKansaard/Claude_QA_Agent/blob/7b1cd061138c7e0e62d3ae6f81d910704b98ffa0/CLAUDE.md",
+      "stars": 1,
+      "summary": "This config sets up a multi-role QA agent system using slash commands to orchestrate test planning, automation, and reporting. It includes high-level role definitions and specific tool integration workflows."
+    },
     "DataIntellectTech/TorQ:docs/claude-skill.md": {
       "curated": "2026-06-14",
       "kind": "skill",
@@ -10,6 +21,17 @@
       "source_url": "https://github.com/DataIntellectTech/TorQ/blob/b03e47530f664377a5021c498e80b7511a112a9c/docs/claude-skill.md",
       "stars": 308,
       "summary": "Provides domain-specific architectural patterns and lifecycle rules for the TorQ kdb+ production framework to ensure LLM code adheres to proprietary conventions."
+    },
+    "MattKilmer/claude-autofix-bot:claude.md": {
+      "curated": "2026-06-14",
+      "kind": "claude-md",
+      "note": "discovered/claude-md/MattKilmer__claude-autofix-bot.md",
+      "path": "claude.md",
+      "repo": "MattKilmer/claude-autofix-bot",
+      "score": 9,
+      "source_url": "https://github.com/MattKilmer/claude-autofix-bot/blob/957ba70c3a58d43dbdf022b869a3eedaf94401da/claude.md",
+      "stars": 5,
+      "summary": "This document provides high-level architectural context for an automated agentic pipeline that bridges Slack to Git via Claude Code CLI."
     },
     "archtechx/tenancy:CLAUDE.md": {
       "curated": "2026-06-14",
