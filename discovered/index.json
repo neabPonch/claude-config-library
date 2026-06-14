@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "DataIntellectTech/TorQ:docs/claude-skill.md": {
+      "curated": "2026-06-14",
+      "kind": "skill",
+      "note": "discovered/skill/DataIntellectTech__TorQ__claude-skill.md",
+      "path": "docs/claude-skill.md",
+      "repo": "DataIntellectTech/TorQ",
+      "score": 9,
+      "source_url": "https://github.com/DataIntellectTech/TorQ/blob/b03e47530f664377a5021c498e80b7511a112a9c/docs/claude-skill.md",
+      "stars": 308,
+      "summary": "Provides domain-specific architectural patterns and lifecycle rules for the TorQ kdb+ production framework to ensure LLM code adheres to proprietary conventions."
+    },
+    "archtechx/tenancy:CLAUDE.md": {
+      "curated": "2026-06-14",
+      "kind": "claude-md",
+      "note": "discovered/claude-md/archtechx__tenancy.md",
+      "path": "CLAUDE.md",
+      "repo": "archtechx/tenancy",
+      "score": 9,
+      "source_url": "https://github.com/archtechx/tenancy/blob/652bc987cedb19d345bcb1a948ad02a6ce40e238/CLAUDE.md",
+      "stars": 4355,
+      "summary": "Provides deep architectural context, specific command shortcuts, and crucial 'gotchas' regarding Laravel lifecycle timing."
+    },
+    "artokun/comfyui-mcp:plugin/commands/node-skill.md": {
+      "curated": "2026-06-14",
+      "kind": "skill",
+      "note": "discovered/skill/artokun__comfyui-mcp__node-skill.md",
+      "path": "plugin/commands/node-skill.md",
+      "repo": "artokun/comfyui-mcp",
+      "score": 8,
+      "source_url": "https://github.com/artokun/comfyui-mcp/blob/561c3682237dcb95932d8542fdd2ac017e86ab77/plugin/commands/node-skill.md",
+      "stars": 152,
+      "summary": "A meta-skill that automates the creation of new skill files for ComfyUI custom node packs via registry IDs or GitHub URLs."
+    },
+    "charyou/SoraVault:claude.md": {
+      "curated": "2026-06-14",
+      "kind": "claude-md",
+      "note": "discovered/claude-md/charyou__SoraVault.md",
+      "path": "claude.md",
+      "repo": "charyou/SoraVault",
+      "score": 9,
+      "source_url": "https://github.com/charyou/SoraVault/blob/11e4ebe4c442d94bd6a82e5901936cbcdb85478c/claude.md",
+      "stars": 63,
+      "summary": "A highly detailed project brief that defines complex feature sets and strict technical implementation contracts."
+    },
+    "creativetimofficial/ui:skills/creative-tim-ui/SKILL.md": {
+      "curated": "2026-06-14",
+      "kind": "skill",
+      "note": "discovered/skill/creativetimofficial__ui__skill.md",
+      "path": "skills/creative-tim-ui/SKILL.md",
+      "repo": "creativetimofficial/ui",
+      "score": 9,
+      "source_url": "https://github.com/creativetimofficial/ui/blob/20eb87b1f671a2ba778b435c53249522080e8f27/skills/creative-tim-ui/SKILL.md",
+      "stars": 11921,
+      "summary": "A high-density design system manual that instructs an agent on how to implement a specific UI library with strict adherence to brand and technical standards."
+    },
+    "duriantaco/skylos:.claude/skills/skylos/SKILL.md": {
+      "curated": "2026-06-14",
+      "kind": "skill",
+      "note": "discovered/skill/duriantaco__skylos__skill.md",
+      "path": ".claude/skills/skylos/SKILL.md",
+      "repo": "duriantaco/skylos",
+      "score": 8,
+      "source_url": "https://github.com/duriantaco/skylos/blob/92431bc4d360d402e8a61aceacc5500780e1e83b/.claude/skills/skylos/SKILL.md",
+      "stars": 453,
+      "summary": "This file provides specialized operational instructions for interacting with the Skylos CLI, including navigation-based context management and specific command templates."
+    },
+    "eze-is/web-access:SKILL.md": {
+      "curated": "2026-06-14",
+      "kind": "skill",
+      "note": "discovered/skill/eze-is__web-access.md",
+      "path": "SKILL.md",
+      "repo": "eze-is/web-access",
+      "score": 9,
+      "source_url": "https://github.com/eze-is/web-access/blob/7af34af6a25940d917905f0e5f2a7ef056952971/SKILL.md",
+      "stars": 7565,
+      "summary": "A sophisticated web-browsing protocol that uses a local CDP proxy to allow an agent to interact with the user's actual browser session, including authenticated states and dynamic content."
+    },
+    "microsoft/finnts:CLAUDE.md": {
+      "curated": "2026-06-14",
+      "kind": "claude-md",
+      "note": "discovered/claude-md/microsoft__finnts.md",
+      "path": "CLAUDE.md",
+      "repo": "microsoft/finnts",
+      "score": 7,
+      "source_url": "https://github.com/microsoft/finnts/blob/e8e3859f013d52cfc5f09f680edbce1a5cbfdffc/CLAUDE.md",
+      "stars": 260,
+      "summary": "Defines a specialized R package development workflow using specific devtools commands to ensure structural integrity."
+    },
+    "modery/PowerDocu:CLAUDE.md": {
+      "curated": "2026-06-14",
+      "kind": "claude-md",
+      "note": "discovered/claude-md/modery__PowerDocu.md",
+      "path": "CLAUDE.md",
+      "repo": "modery/PowerDocu",
+      "score": 9,
+      "source_url": "https://github.com/modery/PowerDocu/blob/779f67278578899e0501c6da40ed2a0b40aa19f1/CLAUDE.md",
+      "stars": 625,
+      "summary": "This file provides a highly detailed architectural roadmap of a complex .NET solution, including the internal contents of its Git submodules."
+    },
+    "myysophia/codex-config:readme_skill.md": {
+      "curated": "2026-06-14",
+      "kind": "skill",
+      "note": "discovered/skill/myysophia__codex-config__readme-skill.md",
+      "path": "readme_skill.md",
+      "repo": "myysophia/codex-config",
+      "score": 8,
+      "source_url": "https://github.com/myysophia/codex-config/blob/9e3619cef80a3d83268fd9c075648617705ea37b/readme_skill.md",
+      "stars": 194,
+      "summary": "A stateful orchestration pattern that implements task decomposition and progress tracking via local Markdown files to facilitate multi-session autonomy."
+    },
+    "narnia-sh/layrr:CLAUDE.md": {
+      "curated": "2026-06-14",
+      "kind": "claude-md",
+      "note": "discovered/claude-md/narnia-sh__layrr.md",
+      "path": "CLAUDE.md",
+      "repo": "narnia-sh/layrr",
+      "score": 8,
+      "source_url": "https://github.com/narnia-sh/layrr/blob/e4e7a0ab972d3df4f5acc6a5929f36f3def89c59/CLAUDE.md",
+      "stars": 258,
+      "summary": "Defines a CLI-only project scope and provides a functional map of the system architecture."
+    },
+    "zakirkun/guardian-cli:SKILL.md": {
+      "curated": "2026-06-14",
+      "kind": "skill",
+      "note": "discovered/skill/zakirkun__guardian-cli.md",
+      "path": "SKILL.md",
+      "repo": "zakirkun/guardian-cli",
+      "score": 9,
+      "source_url": "https://github.com/zakirkun/guardian-cli/blob/68f79f80023ecbda97a42559a07db234776203de/SKILL.md",
+      "stars": 1450,
+      "summary": "An architectural blueprint for a multi-agent security orchestration CLI that uses role-based agents and structured state management."
+    }
+  }
+}
