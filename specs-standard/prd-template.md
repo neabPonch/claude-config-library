@@ -19,6 +19,9 @@ spec: NNNN-slug.spec.md   # link to the spec, or omit if none
 **Non-goals** — explicitly out of scope, so we don't scope-creep.
 - …
 
+**What matters most** — ranked tradeoff order (e.g. correctness > speed >
+polish). The tie-breaker agents use for every tradeoff the spec doesn't resolve.
+
 **Users / use cases** — who uses this and the concrete scenarios.
 - …
 

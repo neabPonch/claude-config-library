@@ -12,4 +12,9 @@ pairs — `NNNN-slug.prd.md` (what & why) and `NNNN-slug.spec.md` (how) — inde
   its PRD. Small changes need neither — use judgment.
 - Keep `status:` current (`draft → active → shipped`) and `updated:` fresh, and add
   a line to `specs/INDEX.md`. Ship by flipping status to `shipped`, not deleting.
+- **Same-PR rule**: for `rigor: anchored` specs (the default), read the relevant
+  spec before changing described behavior and update it **in the same PR** as
+  the behavior change.
+- Before structural changes, read `docs/decisions/` (ADRs) if present — don't
+  contradict or re-propose what a standing decision already settled.
 - Use the **`prd-spec` skill** to scaffold or update these.
