@@ -39,7 +39,7 @@ Per repo, flat files in `specs/`:
 ## How to create one
 1. Determine the repo's `specs/` dir; create it (+ `INDEX.md`) if missing.
 2. Pick the next `NNNN` and a short kebab `slug`.
-3. Copy the relevant template from `claude-config-library/specs-standard/`
+3. Copy the relevant template from `~/repos/claude-config-library/specs-standard/`
    (`prd-template.md` / `spec-template.md`), fill the frontmatter
    (`id`, `title`, `status`, dates, cross-links) and the body. Keep it tight —
    a PRD is ~one page; a spec leads with the decision.
