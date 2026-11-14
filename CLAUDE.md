@@ -22,7 +22,9 @@ When a user describes what they are building, you:
 ## Structure rules (for contributions)
 
 - Every template file must begin with a metadata header (see any existing template)
-- Every new file must have a corresponding entry in `catalog.json`
+- Every new template under `claude-md/`, `skills/`, or `workflows/` must have a
+  corresponding entry in `catalog.json`. `discovered/` (config-scout output) and
+  `specs-standard/` (the PRD/spec standard) are not cataloged.
 - Domain folders: `web-frontend`, `backend-api`, `data-ml`, `devops-infra`, `mobile`, `security`, `game-dev`, `data-engineering`, `cli-tools`, `agents-ai`
 - Stack folders mirror the domain structure
 
